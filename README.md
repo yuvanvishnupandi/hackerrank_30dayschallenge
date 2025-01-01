@@ -51,7 +51,7 @@ Each day, I work on solving a new problem, and after completing it, I update my 
 
 ## Navigate
 
-Each challenge will be added as a new file in the format `dayX.py` or `dayX.java` based on the language used. You can check out each day’s code by opening the respective file in the folder for that day's challenge.
+Each challenge will be added as a new file in the format `dayX.py`. You can check out each day’s code by opening the respective file in the folder for that day's challenge.
 
 ## Contribute
 
