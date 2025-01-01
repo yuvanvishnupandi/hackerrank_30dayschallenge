@@ -1,6 +1,6 @@
 # 30 Days of Code Challenge
 
-Welcome to my 30 Days of Code repository! This repository contains solutions for each day’s coding challenge from the HackerRank 30 Days of Code series. Each challenge helps me improve my coding skills and problem-solving abilities.
+Welcome to my 30 Days of Code repository! This repository contains solutions for each day’s coding challenge from the HackerRank 30 Days of Code series.
 
 
 ## Table of Contents
